@@ -10,7 +10,7 @@ When I'm not debugging production code, you'll find me:
 - Learning new tech because... why not?
 - Enjoying life outside tech - traveling, sports, and seeking adventures with friends (I'm not as geeky as you might think). You can check out the travelling project I created with my friends [danswithus](https://instagram.com/danswithus).
 
-### Cool Things I've Built
+### Things I've Built
 **[DMSales](https://dmsales.com/en/)** - Marketing Automation SaaS
 
 Comprehensive marketing automation solution for businesses. I boosted this platform with data. I did web scraping, data processing, integrations and APIs.
